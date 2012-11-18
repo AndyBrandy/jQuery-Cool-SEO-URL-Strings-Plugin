@@ -7,19 +7,15 @@ jQuery Cool SEO URL Strings Plugin creates slug in JavaScript.
 
 Include source code of the plugin to your header:
 <pre>
-<script src="jquery-cool-seo-url-strings.js" type="text/javascript"></script>
+&laquo;script src="jquery-cool-seo-url-strings.js" type="text/javascript"&raquo;&laquo;/script&raquo;
 </pre>
 
 and add this code:
 
-<pre>
-<script type="text/javascript">
-	$('.coolString').coolString();
-</script>
-</pre>
+<pre>$('.coolString').coolString();</pre>
 
 <pre>
-<input class="coolString" value="" class="coolString" />
+&laquo;input class="coolString" value="" class="coolString" /&raquo;
 </pre>
 
 <p>Than type in for example: <blockquote>Příliš žluťoučký kůň úpěl ďábelské ódy</blockquote> and click outside of the input.</p>
