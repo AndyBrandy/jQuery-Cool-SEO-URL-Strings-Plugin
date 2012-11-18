@@ -7,7 +7,7 @@ jQuery Cool SEO URL Strings Plugin creates slug in JavaScript.
 
 Include source code of the plugin to your header:
 <pre>
-&laquo;script src="jquery-cool-seo-url-strings.js" type="text/javascript"&raquo;&laquo;/script&raquo;
+&lt;script src="jquery-cool-seo-url-strings.js" type="text/javascript"&gt;&lt;/script&gt;
 </pre>
 
 and add this code:
@@ -15,7 +15,7 @@ and add this code:
 <pre>$('.coolString').coolString();</pre>
 
 <pre>
-&laquo;input class="coolString" value="" class="coolString" /&raquo;
+&lt;input class="coolString" value="" class="coolString" /&gt;
 </pre>
 
 <p>Than type in for example: <blockquote>Příliš žluťoučký kůň úpěl ďábelské ódy</blockquote> and click outside of the input.</p>
